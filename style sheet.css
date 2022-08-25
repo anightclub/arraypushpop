@@ -1,0 +1,49 @@
+div{
+    text-align: center;
+    display: grid;
+    place-items: center; 
+    border-radius: 40px;
+   
+    background: transparent;
+ }
+
+ input{
+    margin-top: 30px;
+    text-align: center;
+    width: auto;
+    height: 25px;
+    border-radius: 50px;
+ }
+ 
+ body{
+    background:linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(wolfgang-hasselmann-FtpVI5tcZg4-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    display: grid;
+    place-items: center;
+    padding-left: 2inch;right:2inch;top: 1inch;bottom: 1inch;
+ }
+ 
+ button{
+   text-align: center;
+   border-radius: 40px;
+   background-color: aliceblue;  
+ }
+ 
+ button:hover{
+    size: 20px;
+    border-radius: 50px;
+    color: rgb(64, 16, 236); 
+    cursor: pointer;
+    font-size: 20px;
+ }
+ 
+ h1{ 
+   color:whitesmoke;
+   font-style: bold;
+   font-size: 35px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ 

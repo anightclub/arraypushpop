@@ -8,11 +8,17 @@ div{
  }
 
  input{
-    margin-top: 30px;
-    text-align: center;
-    width: auto;
-    height: 25px;
-    border-radius: 50px;
+   width: 600px;
+   height: 55px;
+   border: 4px;
+   border-style: solid;
+   border-radius: 15px;
+   color: black;
+   background-color: transparent;
+   font-size: 40px;
+   padding: 5px;
+   margin-top: 25px;
+   margin-bottom: 25px;
  }
  
  body{
